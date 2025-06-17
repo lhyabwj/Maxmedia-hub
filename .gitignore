@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Env files (API keys, secrets)
+.env
+
+# Build folders (in case you add build tools later)
+dist/
+build/
